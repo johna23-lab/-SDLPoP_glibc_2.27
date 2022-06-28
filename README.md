@@ -4,7 +4,7 @@
 
 An open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features.
 
-Compiled for GLIBC_2.27 (Ubuntu 18.04/Linux Mint 19.3) it includes the SDL2 libs into the binary too
+Compiled for GLIBC_2.27 -x86 and x86_64- (Ubuntu 18.04/Linux Mint 19.3) it includes the SDL2 libs into the binary too
 
 ## Links
 
